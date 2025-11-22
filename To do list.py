@@ -39,30 +39,3 @@ def to_do_list():
            print("Invalid option")
 
 print(to_do_list())
-
-
-📖 Overview
-
-This project is a simple command-line To-Do List Manager built in Python.
-It allows users to add, view, and remove tasks interactively using a text-based menu.
-The goal is to demonstrate basic Python concepts such as lists, loops, conditionals, and user input handling.
-
-⭐ Features
-
-📋 View Tasks — Displays all tasks currently in the list.
-
-➕ Add Task — Allows the user to enter a new task.
-
-❌ Remove Task — Removes a selected task by its number.
-
-🚪 Exit Program — Gracefully closes the application.
-
-✔️ Simple, clean, and beginner-friendly Python code.
-
-🛠️ Technologies / Tools Used
-
-Python 3.x
-
-Standard Python input/output functions
-
-No external libraries required
